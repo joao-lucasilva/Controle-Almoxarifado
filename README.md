@@ -1,6 +1,6 @@
  # Sistema para Controle de Almoxarifado
 
-
+![Tela inicial](https://github.com/joao-lucasilva/Controle-Almoxarifado/blob/master/src/projeto_etec/imagens/screenshot.JPG)
 
 Tabela de conteúdos
 =================
@@ -19,9 +19,9 @@ O sistema cadastra, lista e gera relatórios dos produtos presentes no almoxarif
 
 ## Tecnologias
 Neste projeto foi utilizado:
-	- Java;
-	- Banco de Dados MySQL;
-	- Gerador de Relatórios Ireport.
+	 -  Java;
+	 -  Banco de Dados MySQL;
+	 -  Gerador de Relatórios Ireport.
 ## Autor
 Desenvolvido por João Lucas da Silva.
 Entre em contato comigo:
